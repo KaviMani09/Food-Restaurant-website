@@ -184,12 +184,12 @@ function sendToWhatsapp() {
   }
 
   let whatsappURL = "https://wa.me/" + number + "?text=" +
-    "Online Table Reservation" + "%0A" +
-    "Name: " + name + "%0A" +
-    "Phone: " + phone + "%0A" +
-    "Persons: " + person + "%0A" +
-    "Time: " + time + "%0A" +
-    "Message: " + message;
+    "📝 *Online Table Reservation* %0A" +
+    "👤 *Name:* " + name + "%0A" +
+    "📞 *Phone:* " + phone + "%0A" +
+    "👥 *Persons:* " + person + "%0A" +
+    "🕒 *Time:* " + time + "%0A" +
+    "💬 *Message:* " + message;
 
   window.open(whatsappURL, "_blank").focus();
 }
