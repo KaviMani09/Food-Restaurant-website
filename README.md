@@ -9,6 +9,7 @@ A responsive and modern Food Restaurant website designed to showcase a restauran
 
 ## 📌 Features
 🧑‍🍳 Home Section – Welcome message and introduction to the restaurant
+
 📝 About Section – Information about the restaurant and its chefs
 📋 Menu Section – List of food items with images and prices
 🛒 Order Section – Option to place food orders
